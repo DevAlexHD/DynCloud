@@ -1,0 +1,4 @@
+name: DynCloudMaster
+version: 1.0
+main: de.dyncloud.dyncloud.DynCloud
+author: DynCloud

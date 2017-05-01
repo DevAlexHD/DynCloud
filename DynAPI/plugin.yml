@@ -1,0 +1,5 @@
+name: DynCloudAPI
+version: 1.0
+main: de.dyncloud.dyncloud.DynAPI
+author: DynCloud
+

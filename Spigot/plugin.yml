@@ -1,0 +1,5 @@
+name: DynCloudSpigot
+version: 1.0
+author: DynCloud
+main: de.dyncloud.dyncloud.Main
+description: cloudsystem

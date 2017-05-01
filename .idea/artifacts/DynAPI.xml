@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DynAPI">
+    <output-path>$USER_HOME$/Documents</output-path>
+    <root id="archive" name="DynAPI.jar">
+      <element id="module-output" name="DynAPI" />
+      <element id="file-copy" path="$PROJECT_DIR$/DynAPI/plugin.yml" />
+    </root>
+  </artifact>
+</component>

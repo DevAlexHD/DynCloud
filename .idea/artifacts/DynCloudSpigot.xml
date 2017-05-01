@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DynCloudSpigot">
+    <output-path>$USER_HOME$/Documents</output-path>
+    <root id="archive" name="DynCloudSpigot.jar">
+      <element id="module-output" name="Spigot" />
+      <element id="file-copy" path="$PROJECT_DIR$/Spigot/plugin.yml" />
+    </root>
+  </artifact>
+</component>
